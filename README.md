@@ -18,7 +18,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/company-network-design.git
+git clone [https://github.com/your-username/company-network-design.git](https://github.com/fah49/Company-Network-Design.git)
 Open the Project
 
 Launch Cisco Packet Tracer.
